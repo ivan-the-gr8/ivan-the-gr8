@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivan-the-gr8. 
 - 👀 I’m interested in game and web development. 
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I’m currently learning JS, HTML, and CSS. 
 - 💞️ I’m looking to collaborate on any cool stuff :)
 - 📫 How to reach me -> i.s.3434@gmail.com
 
