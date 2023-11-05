@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ivan-the-gr8. 
-- 👀 I’m interested in game and web development. 
-- 🌱 I’m currently learning JS, HTML, and CSS. 
+- 👀 I’m interested in mobile and web app development.
 - 💞️ I’m looking to collaborate on any cool stuff :)
 - 📫 How to reach me -> i.s.3434@outlook.com
 
